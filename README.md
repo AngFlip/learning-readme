@@ -18,7 +18,7 @@
 <td>
     <!--  ![imagem:livros empilhados](./img/books.png)  -->
     <p align="center" width="100%">
-    <img width="30%" src="./img/books.png" >
+    <img width="30%" src="./img/books.png" alt="livros empilhados">
     </p>
 </td>
 </tr>
